@@ -1,2 +1,2 @@
-# 1337Picsine
+# 1337PicsineResources
 Training
